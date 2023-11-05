@@ -1,0 +1,4 @@
+C:\Users\ASUS\OneDrive\Desktop\27\ConsoleApp3.3\ConsoleApp3.3\obj\Debug\net6.0\ConsoleApp3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\ConsoleApp3.3\ConsoleApp3.3\obj\Debug\net6.0\ConsoleApp3.3.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\ConsoleApp3.3\ConsoleApp3.3\obj\Debug\net6.0\ConsoleApp3.3.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\ConsoleApp3.3\ConsoleApp3.3\obj\Debug\net6.0\ConsoleApp3.3.csproj.CoreCompileInputs.cache

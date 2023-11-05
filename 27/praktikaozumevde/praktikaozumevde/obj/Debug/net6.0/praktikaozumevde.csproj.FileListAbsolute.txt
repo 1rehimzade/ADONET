@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\bin\Debug\net6.0\praktikaozumevde.exe
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\bin\Debug\net6.0\praktikaozumevde.deps.json
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\bin\Debug\net6.0\praktikaozumevde.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\bin\Debug\net6.0\praktikaozumevde.dll
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\bin\Debug\net6.0\praktikaozumevde.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.dll
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\refint\praktikaozumevde.dll
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\praktikaozumevde.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\27\praktikaozumevde\praktikaozumevde\obj\Debug\net6.0\ref\praktikaozumevde.dll

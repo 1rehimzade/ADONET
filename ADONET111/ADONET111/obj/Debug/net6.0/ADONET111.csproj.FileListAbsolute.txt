@@ -1,0 +1,4 @@
+C:\Users\ASUS\OneDrive\Desktop\27\ADONET111\ADONET111\obj\Debug\net6.0\ADONET111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\ADONET111\ADONET111\obj\Debug\net6.0\ADONET111.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\ADONET111\ADONET111\obj\Debug\net6.0\ADONET111.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\ADONET111\ADONET111\obj\Debug\net6.0\ADONET111.csproj.CoreCompileInputs.cache
