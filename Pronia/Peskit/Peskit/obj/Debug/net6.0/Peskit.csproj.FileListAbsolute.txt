@@ -1,7 +1,0 @@
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.AssemblyInfoInputs.cache
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.AssemblyInfo.cs
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.RazorAssemblyInfo.cache
-C:\Users\ASUS\OneDrive\Desktop\Pronia\Peskit\Peskit\obj\Debug\net6.0\Peskit.RazorAssemblyInfo.cs
